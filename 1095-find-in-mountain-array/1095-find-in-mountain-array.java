@@ -10,47 +10,47 @@
 class Solution {
     public int findInMountainArray(int target, MountainArray mountainArr) {
         //Find Peak Element
-        int low = 0;
-        int high = mountainArr.length()-1;
-        while(low<high)
+        int l = 0;
+        int h = mountainArr.length()-1;
+        while(l<h)
         {
-            int mid = (low+high)/2;
-            if(mountainArr.get(mid)<mountainArr.get(mid+1))
-                low=mid+1;
+            int m = (l+h)/2;
+            if(mountainArr.get(m)<mountainArr.get(m+1))
+                l=m+1;
             else
-                high=mid;
+                h=m;
         }
-         int peakIndex=low;
+         int p=l;
         
         
         //Search in 1st Half
-        low=0;
-        high=peakIndex;
-        while(low<=high)
+        l=0;
+        h=p;
+        while(l<=h)
         {
-            int mid = (low+high)/2;
-            int element = mountainArr.get(mid);
-            if(element<target)
-                low=mid+1;
-            else if(element==target)
-                return mid;
+            int m = (l+h)/2;
+            int e = mountainArr.get(m);
+            if(e<target)
+                l=m+1;
+            else if(e==target)
+                return m;
             else
-                high=mid-1;
+                h=m-1;
         }
         
         //Search in 2nd Half
-        low=peakIndex+1;
-        high=mountainArr.length()-1;
-        while(low<=high)
+        l=p+1;
+        h=mountainArr.length()-1;
+        while(l<=h)
         {
-            int mid = (low+high)/2;
-            int element = mountainArr.get(mid);
-            if(element>target)
-                low=mid+1;
-            else if(element==target)
-                return mid;
+            int m = (l+h)/2;
+            int e = mountainArr.get(m);
+            if(e>target)
+                l=m+1;
+            else if(e==target)
+                return m;
             else
-                high=mid-1;
+                h=m-1;
         }
         
         //If not found return -1
