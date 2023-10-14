@@ -1,15 +1,19 @@
 class Solution {
-    int cache[][], n; 
-public int paintWalls(int[] cost, int[] time) {
-    n = cost.length;
-    cache = new int[n][2 * n + 1];
-    for (int[] row : cache) Arrays.fill(row, -1);
-    return dp(cost, time, 0, 0);
-}
-private int dp(int[] cost, int[] time, int i, int t) {
-    if (i == n) return (t >= 0) ? 0 : (int) 1e9;
-    if (cache[i][t + n] != -1) return cache[i][t + n];
-    return cache[i][t + n] = Math.min(dp(cost, time, i + 1, t - 1),
-                    cost[i] + dp(cost, time, i + 1, Math.min(t + time[i], n)));
-}
+    public int paintWalls(int[] cost, int[] time) {
+        int n=cost.length;
+        return (int)paintWallsHelper(cost,time,0,0,new Long[n][501]);
+    }
+    
+    private long paintWallsHelper(int[] cost, int[] time, int index, int total, Long[][] memo) {
+        if(total >= cost.length)
+            return 0;
+        if(index >= cost.length)
+            return Integer.MAX_VALUE;
+        if(memo[index][total] != null)
+            return memo[index][total];
+        
+        long with=cost[index] + paintWallsHelper(cost,time,index+1,total+time[index]+1,memo);
+        long without=paintWallsHelper(cost,time,index+1,total,memo);
+        return memo[index][total]=Math.min(with,without);
+    }
 }
