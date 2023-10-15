@@ -1,7 +1,1 @@
-# Write your MySQL query statement below
-SELECT p.firstName,
-       p.lastName,
-       a.city,
-       a.state 
-from Person p left outer join Address a 
-on p.personId=a.personId;
+SELECT firstName, lastName, city, state FROM Person as p LEFT JOIN Address as a ON p.personId = a.personID;
