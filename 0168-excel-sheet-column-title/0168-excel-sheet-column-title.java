@@ -1,10 +1,12 @@
 class Solution {
-    public String convertToTitle(int n) {
-    String ret = "";
-    while (n != 0) {
-        ret = (char)('A'+(--n)%26) + ret;
-        n /= 26;
+    public String convertToTitle(int columnNumber) {
+        StringBuilder ans=new StringBuilder();
+        while(columnNumber>0)
+        {
+            columnNumber--;
+            ans.append((char)((columnNumber)%26+'A'));
+            columnNumber=(columnNumber)/26;
+        }
+        return ans.reverse().toString();
     }
-    return ret;
-}
 }
