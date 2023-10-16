@@ -1,3 +1,4 @@
+import java.util.Arrays;
 class Solution {
     public List<Integer> getRow(int rowIndex) {
         Integer[] a = new Integer[rowIndex+1];
@@ -9,5 +10,6 @@ class Solution {
             }
         }
         return Arrays.asList(a);
+        
     }
 }
