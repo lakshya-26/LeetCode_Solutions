@@ -1,13 +1,9 @@
 class Solution {
     public int maxCoins(int[] piles) {
         Arrays.sort(piles);
-       int maxIndex= piles.length-1;
-       int minIndex=0;
-       int sum=0;
-        while(minIndex<maxIndex){
-            maxIndex--;
-            sum += piles[maxIndex--];
-            minIndex++;
+        int sum=0;
+        for(int i=piles.length/3;i<piles.length;i=i+2){
+            sum += piles[i];
         }
         return sum;
     }
