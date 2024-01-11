@@ -15,22 +15,19 @@
  */
 class Solution {
     public int maxAncestorDiff(TreeNode root) {
-		if (root == null)
-			return 0;
-		int min = root.val, max = root.val;
-		diff(root, min, max);
-		return diff;
-	}
+        return helper(root, root.val, root.val);
+    }
 
-	public int diff = 0;
+    private int helper(TreeNode r, int mn, int mx) {
+        if (r == null) {
+            return mx - mn;
+        }
+        mn = Math.min(mn, r.val);
+        mx = Math.max(mx, r.val);
 
-	public void diff(TreeNode root, int min, int max) {
-		if (root == null)
-			return;
-		diff = Math.max(diff, Math.max(Math.abs(min - root.val), Math.abs(max - root.val)));
-		min = Math.min(min, root.val);
-		max = Math.max(max, root.val);
-		diff(root.left, min, max);
-		diff(root.right, min, max);
-	}
+        int leftDiff = helper(r.left, mn, mx);
+        int rightDiff = helper(r.right, mn, mx);
+
+        return Math.max(leftDiff, rightDiff);
+    }
 }
