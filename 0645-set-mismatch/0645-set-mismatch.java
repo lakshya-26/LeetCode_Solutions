@@ -1,19 +1,21 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        Set<Integer> set = new HashSet<>();
-        int duplicate = -1;
-        int n = nums.length;
-        long sum = (n * (n + 1)) / 2; // Sum of first n natural numbers
-
-        for (int num : nums) {
-            if (set.contains(num)) {
-                duplicate = num;
-            } else {
-                set.add(num);
-                sum -= num; // Subtracting each number from sum
+        int dup = -1, missing = -1;
+        
+        for (int i = 1; i <= nums.length; i++) {
+            int count = 0;
+            for (int j = 0; j < nums.length; j++) {
+                if (nums[j] == i) {
+                    count++;
+                }
+            }
+            if (count == 2) {
+                dup = i;
+            } else if (count == 0) {
+                missing = i;
             }
         }
-
-        return new int[]{duplicate, (int) sum};
+        
+        return new int[] {dup, missing};
     }
 }
