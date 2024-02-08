@@ -1,15 +1,24 @@
 class Solution {
+
+    int[] memo;
+
     public int numSquares(int n) {
-        int[] dp = new int[n + 1];
-        Arrays.fill(dp, Integer.MAX_VALUE);
-        dp[0] = 0;
-        for (int i = 1; i <= n; ++i) {
-            int min_val = Integer.MAX_VALUE;
-            for (int j = 1; j * j <= i; ++j) {
-                min_val = Math.min(min_val, dp[i - j * j] + 1);
-            }
-            dp[i] = min_val;
+        memo = new int[n+1];
+        Arrays.fill(memo, -1);
+        return solve(n);
+    }
+
+    public int solve(int n) {
+        if(n == 0) return 0;
+        if(n < 0) return Integer.MAX_VALUE;
+        if(memo[n] != -1) return memo[n];
+        int ans = Integer.MAX_VALUE;
+        for(int i=1;i*i<=n;i++) {
+            ans = Math.min(
+                ans,
+                1 + solve(n-(i*i))
+            );
         }
-        return dp[n];
+        return memo[n] = ans;
     }
 }
