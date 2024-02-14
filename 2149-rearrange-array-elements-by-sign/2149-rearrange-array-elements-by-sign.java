@@ -1,24 +1,18 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-        Stack<Integer> s1 = new Stack<>();
-        Stack<Integer> s2 = new Stack<>();
+        int[] ans = new int[nums.length];
+        int pos = 0, neg = 1;
         
-        for(int i=0;i<nums.length;i++){
-            if(nums[i] >= 0){
-                s1.push(nums[i]);
-            }else{
-                s2.push(nums[i]);
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] > 0) {
+                ans[pos] = nums[i];
+                pos += 2;
+            } else {
+                ans[neg] = nums[i];
+                neg += 2;
             }
         }
         
-        for(int i=nums.length-1;i>=0;i--){
-            if(!s1.empty() && i%2==0){
-                nums[i] = s1.pop();
-            }
-            else if(!s2.empty() && i%2!=0){
-                nums[i] = s2.pop();
-            }
-        }
-        return nums;
+        return ans;
     }
 }
