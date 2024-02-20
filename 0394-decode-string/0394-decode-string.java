@@ -1,22 +1,30 @@
 class Solution {
     public String decodeString(String s) {
-        int i = s.indexOf(']');
-        if (i == -1) return s;
-        int j = s.substring(0, i).lastIndexOf('[');
-        int t = j;
-        while (t > 0 && s.charAt(t - 1) >= '0' && s.charAt(t - 1) <= '9') {
-            t--;
-        }
-        StringBuilder builder = new StringBuilder();
-        builder.append(s.substring(0, t));
-        if (t != j) {
-            int count = Integer.parseInt(s.substring(t, j));
-            String mid = s.substring(j + 1, i);
-            for (int k = 0; k < count; k++) {
-                builder.append(mid);
+        Stack<Integer> st = new Stack<>();
+        Stack<StringBuilder> st1 = new Stack<>();
+        StringBuilder sb = new StringBuilder();
+        int n = 0;
+
+        for (char c : s.toCharArray()) {
+            if (Character.isDigit(c)) {
+                n = n * 10 + (c - '0');
+            } else if (c == '[') {
+                st.push(n);
+                n = 0;
+                st1.push(sb);
+                sb = new StringBuilder();
+            } else if (c == ']') {
+                int k = st.pop();
+                StringBuilder temp = sb;
+                sb = st1.pop();
+                while (k-- > 0) {
+                    sb.append(temp);
+                }
+            } else {
+                sb.append(c);
             }
         }
-        builder.append(s.substring(i + 1));
-        return decodeString(builder.toString());
+
+        return sb.toString();
     }
 }
