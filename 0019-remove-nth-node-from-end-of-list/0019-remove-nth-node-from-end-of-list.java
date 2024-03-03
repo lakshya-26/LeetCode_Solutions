@@ -28,7 +28,7 @@ class Solution {
                 current = current.next;
                 count++;
             }
-            current.next=current.next .next;
+            current.next=current.next.next;
             return head;
         }
     }
