@@ -5,13 +5,13 @@ class Solution {
         
         for(int i=0;i<nums.length;i++){
             if(nums[i]==1){
-                cnt++;
-                max = Math.max(max,cnt);
+                cnt++;       
             }else{
+                max = Math.max(max,cnt);
                 cnt = 0;
             }
         }
         
-        return max;
+        return Math.max(max,cnt);
     }
 }
