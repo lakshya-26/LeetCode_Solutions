@@ -1,9 +1,11 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int r=0;
+        int xor = 0;
+        
         for(int i=0;i<nums.length;i++){
-            r ^= nums[i];
+            xor = xor ^ nums[i];
         }
-        return r;
+        
+        return xor;
     }
 }
