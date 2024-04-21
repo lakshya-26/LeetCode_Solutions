@@ -1,18 +1,28 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        String lowerCase = s.toLowerCase();
-        String noSpace = lowerCase.replaceAll("\\b\\s+\\b", "");
-        String finalString = noSpace.replaceAll("[^a-zA-Z0-9]", "");
-        int len = finalString.length();
-        
-        int l = 0;
-        int h = len-1;
-        while(l<=h){
-            if(finalString.charAt(l) != finalString.charAt(h)){
-                return false;
+        if (s == null) {
+            return false;
+        }
+
+        // Case :Empty String is a valid palindrome
+        if (s.length() == 0 || s.length() == 1) {
+            return true;
+        }
+
+        int left = 0, right = s.length() - 1;
+        while(left <= right) {
+            if (!Character.isLetterOrDigit(s.charAt(left))) {
+                left++;
+            } else if (!Character.isLetterOrDigit(s.charAt(right))) {
+                right--;
+            } else {
+                if (Character.toLowerCase(s.charAt(left)) != Character.toLowerCase(s.charAt(right))) {
+                    return false;
+                } else {
+                    left++;
+                    right--;
+                }
             }
-            l++;
-            h--;
         }
         return true;
     }
