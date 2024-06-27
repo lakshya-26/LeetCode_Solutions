@@ -60,3 +60,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1916-find-center-of-star-graph) |
