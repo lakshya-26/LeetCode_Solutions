@@ -102,6 +102,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## String
 |  |
 | ------- |
