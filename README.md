@@ -92,3 +92,14 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1285-balance-a-binary-search-tree) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
+<!---LeetCode Topics End-->
