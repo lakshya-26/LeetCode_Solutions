@@ -1,32 +1,27 @@
 class Solution {
     public int myAtoi(String str) {
-        int index = 0;
-        int total = 0;
-        int sign = 1;
-        
-        if(str.length() == 0)
+        str = str.trim();
+        if(str.isEmpty()){
             return 0;
-        
-        while(index < str.length() && str.charAt(index) == ' ')
-            index++;
-        
-        if (index == str.length()) return 0;
-        
-        if(str.charAt(index) == '+' || str.charAt(index) == '-') {
-            sign = str.charAt(index) == '+' ? 1 : -1;
-            index++;
         }
-        
-        while(index < str.length()) {
-            int digit = str.charAt(index) - '0';
-            if(digit < 0 || digit > 9) break;
-            
-            if(Integer.MAX_VALUE / 10 < total || Integer.MAX_VALUE / 10 == total && Integer.MAX_VALUE % 10 < digit)
-                return sign == 1 ? Integer.MAX_VALUE : Integer.MIN_VALUE;
-            
-            total = total*10 + digit;
-            index++; 
+        return atoiRecursive(str, 0, 1, 0);
+    }
+
+    public static int atoiRecursive(String s, int idx, int sign, long res){
+        if(idx == s.length()) return (int) (sign*res);
+
+        char c = s.charAt(idx);
+        if(Character.isDigit(c)){
+            res = (res*10) + (c-'0');
+            if(res*sign > Integer.MAX_VALUE) return Integer.MAX_VALUE;
+            if(res*sign < Integer.MIN_VALUE) return Integer.MIN_VALUE;
+
+            return atoiRecursive(s, idx+1, sign, res);
+        }else if(idx == 0 && (c == '+' || c == '-')){
+            if(c== '-') sign = -1;
+
+            return atoiRecursive(s, idx+1, sign, res);
         }
-        return total*sign;
+        return (int) (sign*res);
     }
 }
