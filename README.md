@@ -112,9 +112,14 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | ------- |
 | [0050-powx-n](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2050-count-good-numbers) |
+| [2645-pass-the-pillow](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2050-count-good-numbers) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
