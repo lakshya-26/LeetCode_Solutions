@@ -113,17 +113,20 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | ------- |
 | [0050-powx-n](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [1642-water-bottles](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2050-count-good-numbers) |
 | [2645-pass-the-pillow](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0050-powx-n) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2050-count-good-numbers) |
 ## Simulation
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
 |  |
@@ -133,4 +136,12 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
