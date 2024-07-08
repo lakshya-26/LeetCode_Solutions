@@ -1,18 +1,22 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        Set<String> res = new HashSet<>();
-        for (int i = 0; i < n; i++) {
-            Set<String> tmp = new HashSet<>();
-            for (String s : res) {
-                for (int j = 1; j <= s.length(); j++) {
-                    String cand = s.substring(0, j) + "()" + s.substring(j);
-                    tmp.add(cand);
-                }
-                tmp.add(s + "()");
-            }
-            if (i == 0) tmp.add("()");
-            res = tmp;
+        List<String> res = new ArrayList<String>();
+        recurse(res, 0, 0, "", n);
+        return res;
+    }
+
+    public void recurse(List<String> res, int left, int right, String s, int n){
+        if(s.length() == n*2){
+            res.add(s);
+            return;
         }
-        return new LinkedList<String>(res);  
+
+        if(left<n){
+            recurse(res, left+1, right, s+"(", n);
+        }
+
+        if(right<left){
+            recurse(res, left, right+1, s+")", n);
+        }
     }
 }
