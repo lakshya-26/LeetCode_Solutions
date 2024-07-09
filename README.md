@@ -126,6 +126,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
@@ -141,6 +142,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0039-combination-sum) |
+| [1803-average-waiting-time](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
