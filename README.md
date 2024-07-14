@@ -97,6 +97,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## Linked List
 |  |
@@ -143,6 +144,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0090-subsets-ii) |
