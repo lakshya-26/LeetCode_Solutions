@@ -136,6 +136,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | ------- |
 | [0022-generate-parentheses](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0040-combination-sum-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0090-subsets-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [0152-maximum-product-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [1803-average-waiting-time](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1803-average-waiting-time) |
