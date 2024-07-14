@@ -135,6 +135,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -148,6 +149,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0001-two-sum](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0090-subsets-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
@@ -169,4 +171,8 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
