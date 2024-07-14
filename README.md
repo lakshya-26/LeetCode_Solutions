@@ -99,6 +99,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | ------- |
 | [0001-two-sum](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0217-contains-duplicate](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -148,6 +149,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0039-combination-sum](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [0217-contains-duplicate](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [1803-average-waiting-time](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -158,4 +160,8 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
