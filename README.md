@@ -144,6 +144,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0039-combination-sum](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
 ## Array
 |  |
 | ------- |
@@ -157,6 +158,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0075-sort-colors](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0216-combination-sum-iii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [1803-average-waiting-time](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1803-average-waiting-time) |
