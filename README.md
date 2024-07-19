@@ -112,6 +112,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0008-string-to-integer-atoi](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +139,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | ------- |
 | [0022-generate-parentheses](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 ## Backtracking
 |  |
@@ -147,6 +149,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0039-combination-sum](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
 ## Array
 |  |
