@@ -102,6 +102,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0138-copy-list-with-random-pointer](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [2502-sort-the-people](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0022-generate-parentheses](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0139-word-break) |
+| [2502-sort-the-people](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -177,6 +179,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [1496-lucky-numbers-in-a-matrix](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1803-average-waiting-time](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2502-sort-the-people](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2502-sort-the-people) |
 ## Queue
 |  |
 | ------- |
@@ -191,6 +194,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0015-3sum](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [2502-sort-the-people](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2502-sort-the-people) |
 ## Prefix Sum
 |  |
 | ------- |
