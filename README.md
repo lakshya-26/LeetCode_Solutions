@@ -100,6 +100,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0001-two-sum](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
@@ -113,6 +114,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0139-word-break) |
 ## Math
 |  |
 | ------- |
@@ -140,6 +142,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0022-generate-parentheses](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 ## Backtracking
 |  |
@@ -165,6 +168,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0053-maximum-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
@@ -223,4 +227,12 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
