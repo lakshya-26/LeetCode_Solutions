@@ -99,6 +99,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | ------- |
 | [0001-two-sum](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
@@ -151,6 +152,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0051-n-queens) |
@@ -164,6 +166,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0011-container-with-most-water](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0051-n-queens) |
@@ -230,6 +233,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Trie
 |  |
