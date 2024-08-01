@@ -123,6 +123,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0282-expression-add-operators](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0282-expression-add-operators) |
 | [1642-water-bottles](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1642-water-bottles) |
@@ -198,6 +199,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 ## Sorting
 |  |
