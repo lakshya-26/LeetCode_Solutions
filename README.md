@@ -103,6 +103,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0138-copy-list-with-random-pointer](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
@@ -119,6 +120,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0139-word-break](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0282-expression-add-operators) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2727-number-of-senior-citizens) |
 ## Math
@@ -196,6 +198,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1803-average-waiting-time](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2727-number-of-senior-citizens) |
 ## Queue
@@ -276,4 +279,8 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
