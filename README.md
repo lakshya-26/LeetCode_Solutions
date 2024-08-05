@@ -203,6 +203,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | ------- |
 | [0029-divide-two-integers](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
 | ------- |
