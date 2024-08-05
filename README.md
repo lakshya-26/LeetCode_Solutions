@@ -181,6 +181,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0053-maximum-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
@@ -203,6 +204,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | ------- |
 | [0029-divide-two-integers](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0136-single-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
