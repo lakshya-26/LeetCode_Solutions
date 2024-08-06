@@ -103,6 +103,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0138-copy-list-with-random-pointer](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2502-sort-the-people) |
 ## Linked List
@@ -192,6 +193,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0217-contains-duplicate](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1333-sort-the-jumbled-numbers](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1511-count-number-of-teams) |
@@ -225,6 +227,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
 |  |
