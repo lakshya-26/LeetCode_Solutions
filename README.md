@@ -187,6 +187,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0053-maximum-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0139-word-break) |
@@ -222,6 +223,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | ------- |
 | [0015-3sum](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [1333-sort-the-jumbled-numbers](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [2502-sort-the-people](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2502-sort-the-people) |
@@ -243,6 +245,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0015-3sum](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
