@@ -105,6 +105,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0217-contains-duplicate](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0870-magic-squares-in-grid](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -204,6 +205,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0455-assign-cookies](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0870-magic-squares-in-grid](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1333-sort-the-jumbled-numbers](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1511-count-number-of-teams) |
@@ -269,6 +271,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 ## Depth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
 |  |
@@ -279,6 +282,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | ------- |
 | [0037-sudoku-solver](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0870-magic-squares-in-grid](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Trie
 |  |
@@ -305,4 +309,12 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0999-regions-cut-by-slashes) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
