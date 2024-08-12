@@ -269,6 +269,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 ## Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Depth-First Search
 |  |
@@ -278,6 +279,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 ## Binary Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Matrix
 |  |
@@ -319,4 +321,20 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0999-regions-cut-by-slashes) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
