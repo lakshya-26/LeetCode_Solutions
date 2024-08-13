@@ -160,6 +160,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | ------- |
 | [0022-generate-parentheses](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
@@ -191,6 +192,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0040-combination-sum-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -263,6 +265,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
