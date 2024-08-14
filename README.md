@@ -208,6 +208,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0283-move-zeroes](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [0999-regions-cut-by-slashes](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -240,6 +241,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0088-merge-sorted-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0455-assign-cookies) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1333-sort-the-jumbled-numbers](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2502-sort-the-people](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2502-sort-the-people) |
@@ -264,6 +266,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0088-merge-sorted-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0455-assign-cookies) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Greedy
 |  |
 | ------- |
@@ -335,6 +338,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 ## Binary Search Tree
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
