@@ -161,6 +161,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
@@ -192,6 +193,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0037-sudoku-solver](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0055-jump-game) |
@@ -271,6 +273,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0890-lemonade-change) |
