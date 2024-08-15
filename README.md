@@ -167,6 +167,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0131-palindrome-partitioning](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1511-count-number-of-teams](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Backtracking
@@ -208,6 +209,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0217-contains-duplicate](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -242,6 +244,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0075-sort-colors](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0435-non-overlapping-intervals](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1333-sort-the-jumbled-numbers](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -275,6 +278,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0011-container-with-most-water](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
