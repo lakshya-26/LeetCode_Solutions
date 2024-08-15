@@ -125,6 +125,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0139-word-break](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0282-expression-add-operators) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -169,6 +170,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0152-maximum-product-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1511-count-number-of-teams](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1511-count-number-of-teams) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Backtracking
 |  |
@@ -220,6 +222,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [1496-lucky-numbers-in-a-matrix](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1803-average-waiting-time](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -281,6 +284,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0435-non-overlapping-intervals](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0890-lemonade-change) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
