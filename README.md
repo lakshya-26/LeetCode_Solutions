@@ -172,6 +172,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [1511-count-number-of-teams](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1511-count-number-of-teams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Backtracking
 |  |
 | ------- |
@@ -226,6 +227,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1803-average-waiting-time](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2727-number-of-senior-citizens) |
