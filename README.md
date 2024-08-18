@@ -103,6 +103,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0138-copy-list-with-random-pointer](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0264-ugly-number-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0870-magic-squares-in-grid](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -137,6 +138,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | ------- |
 | [0029-divide-two-integers](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0050-powx-n) |
+| [0264-ugly-number-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0282-expression-add-operators) |
 | [0870-magic-squares-in-grid](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -168,6 +170,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0131-palindrome-partitioning](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0435-non-overlapping-intervals](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1511-count-number-of-teams](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1511-count-number-of-teams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -358,6 +361,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
