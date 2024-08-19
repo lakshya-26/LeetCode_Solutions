@@ -1,24 +1,30 @@
 class Solution {
     public int candy(int[] ratings) {
-        int n = ratings.length;
-        int left[] = new int[n];
-        int right[] = new int[n];
-        Arrays.fill(left,1);
-        Arrays.fill(right,1);
-        for(int i=1;i<n;i++){
-            if(ratings[i]>ratings[i-1]){
-                left[i] = left[i-1]+1;
+        int sum = 1;
+        int i = 1;
+        while(i<ratings.length){
+            if(ratings[i] == ratings[i-1]){
+                sum += 1;
+                i++;
+                continue;
+            }
+            int peak = 1;
+            while(i<ratings.length && ratings[i]>ratings[i-1]){
+                peak += 1;
+                sum += peak;
+                i++;
+            }
+            int down = 1;
+            while(i<ratings.length && ratings[i]<ratings[i-1]){
+                sum += down;
+                i++;
+                down += 1;
+            }
+
+            if(down>peak){
+                sum += down-peak;
             }
         }
-        for(int i=n-2;i>=0;i--){
-            if(ratings[i]>ratings[i+1]){
-                right[i] = right[i+1]+1;
-            }
-        }
-        int candies=0;
-        for(int i=0;i<n;i++){
-            candies += Math.max(left[i],right[i]);
-        }
-        return candies;
+        return sum;
     }
 }
