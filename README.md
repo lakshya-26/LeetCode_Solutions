@@ -143,6 +143,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0282-expression-add-operators](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0282-expression-add-operators) |
 | [0650-2-keys-keyboard](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2050-count-good-numbers) |
@@ -174,6 +175,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0264-ugly-number-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0435-non-overlapping-intervals](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1511-count-number-of-teams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -226,6 +228,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0870-magic-squares-in-grid](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [0999-regions-cut-by-slashes](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1240-stone-game-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1511-count-number-of-teams) |
@@ -268,6 +271,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1240-stone-game-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
 |  |
@@ -371,4 +375,8 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
