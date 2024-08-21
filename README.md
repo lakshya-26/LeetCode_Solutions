@@ -126,6 +126,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0139-word-break](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0282-expression-add-operators) |
+| [0664-strange-printer](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0664-strange-printer) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -175,6 +176,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0264-ugly-number-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0435-non-overlapping-intervals](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1511-count-number-of-teams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
