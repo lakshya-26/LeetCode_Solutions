@@ -208,6 +208,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0051-n-queens](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
