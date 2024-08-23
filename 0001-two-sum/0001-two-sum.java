@@ -7,7 +7,11 @@ class Solution {
             int a = Math.abs(target-nums[i]);
             if(mpp.containsKey(a)){
                 ans[0] = mpp.get(a);
+                ans[1] = i;
+                return ans;
             }
+            mpp.put(nums[i], i)
         }
+        return ans;
     }
 }
