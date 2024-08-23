@@ -126,6 +126,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0139-word-break](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0282-expression-add-operators) |
+| [0592-fraction-addition-and-subtraction](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0664-strange-printer) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -142,6 +143,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0264-ugly-number-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0282-expression-add-operators) |
+| [0592-fraction-addition-and-subtraction](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
@@ -159,6 +161,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 ## Simulation
 |  |
 | ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [1642-water-bottles](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
