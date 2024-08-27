@@ -238,6 +238,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0890-lemonade-change](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [0999-regions-cut-by-slashes](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1240-stone-game-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1511-count-number-of-teams) |
@@ -385,6 +386,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | ------- |
 | [0264-ugly-number-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1325-path-with-maximum-probability](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1325-path-with-maximum-probability) |
 ## Data Stream
 |  |
 | ------- |
@@ -393,4 +395,12 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1240-stone-game-ii) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
