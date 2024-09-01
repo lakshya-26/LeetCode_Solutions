@@ -167,6 +167,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [1642-water-bottles](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2645-pass-the-pillow](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
 |  |
@@ -247,6 +248,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [1803-average-waiting-time](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2727-number-of-senior-citizens) |
@@ -338,6 +340,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0870-magic-squares-in-grid](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Trie
 |  |
 | ------- |
