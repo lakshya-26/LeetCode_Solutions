@@ -319,6 +319,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -326,6 +327,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -333,6 +335,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -359,6 +362,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
