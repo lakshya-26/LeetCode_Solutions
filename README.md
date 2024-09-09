@@ -119,6 +119,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0138-copy-list-with-random-pointer](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0725-split-linked-list-in-parts](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2411-spiral-matrix-iv](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -178,6 +179,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
 |  |
@@ -263,6 +265,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [2132-convert-1d-array-into-2d-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2411-spiral-matrix-iv](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -367,6 +370,7 @@ Here,I will be posting various leetcode questions and solutions which I have sol
 | [0999-regions-cut-by-slashes](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/lakshya-26/LeetCode_Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Trie
 |  |
 | ------- |
